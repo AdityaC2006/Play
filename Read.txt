@@ -1,0 +1,3 @@
+   https://developer.sportradar.com/docs/read/american_football/NFL_v7#team-profile
+   command+T to see all tabs
+   team height weight number age  positition
